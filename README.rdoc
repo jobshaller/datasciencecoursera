@@ -1,1 +1,0 @@
-Lets start working with git and all the power it gives.
